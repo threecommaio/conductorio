@@ -13,7 +13,7 @@
 <p align="center">
   <a href="#about-conductor">About Conductor</a> •
   <a href="#key-features">Key Features</a> •
-  <a href="#request-a-demo">Request a Demo</a> •
+  <a href="#start-demo">Start Demo</a> •
   <a href="#contact-us">Contact Us</a> •
   <a href="#threecomma.io">ThreeComma.io</a>
 </p>
@@ -31,7 +31,7 @@
 
 Introducing Conductor — the always-on control plane for managed Cassandra.
 
-Running Cassandra in the cloud just got a whole lot easier by utilizing the power of Artificial Intelligence. Conductor makes decisions just like a human would to manage your clusters.
+Running Apache Cassandra in the cloud just got a whole lot easier by utilizing the power of Artificial Intelligence. Conductor makes decisions just like a human would to manage your clusters. Conductor is also compatible with Datastax Enterprise (DSE).
 
 Integrate with an existing or deploy a new production ready Cassandra cluster in minutes. You no longer need to worry about performing management tasks such as hardware provisioning, software installing and patching, failure recovery, backups, and monitoring.
 
@@ -64,13 +64,13 @@ Our many years of expertise and knowledge have been baked into Conductor to simp
   </a>
 </p>
 
+- Hosted Conductor
+  - Leverage our Hosted Cassandra Solution
 - Cloud or On-Prem
   - Amazon Web Services
   - Google Cloud Platform
   - Microsoft Azure
   - On-Prem
-- 100% Secure
-  - Conductor is installed on your platform and run on your provisioned hardware behind your ACLs. Conductor _is not_ a remote dashboard.
 - Artificial intelligence
   - Why not let engineering sleep better? Conductor monitors and operates Cassandra 24 hours a day, 7 days a week.
 - Self-Healing
@@ -80,9 +80,9 @@ Our many years of expertise and knowledge have been baked into Conductor to simp
 - Auto-Scaling
   - Conductor will auto-scale your storage capacity automatically and optimally.
 
-## Request a Demo
+## Start Demo
 
-[Request a demo](https://runconductor.io/contact.html?utm_source=github&utm_medium=mktg-site&utm_campaign=v1)
+[Start your Conductor demo immediately here](https://runconductor.io/demo.html?utm_source=github&utm_medium=mktg-site&utm_campaign=v1)
 
 ## Contact Us
 
